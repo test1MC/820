@@ -15,7 +15,7 @@
     Link="/Content/GlossaryTermLinks.htm" />
   <TocEntry
     Title="TextPopups"
-    Link="/Content/TextPopups.htm" />
+    Link="/Content/NewFolder/TextPopups.htm" />
   <TocEntry
     Title="Togglers"
     Link="/Content/Togglers.htm" />
