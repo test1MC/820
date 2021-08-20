@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Non  Condensed/!HTML5 Top Navigation No Condensed JS"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Non  Condensed/!WH Plus No Condensed JS"
+      Type="WebHelp"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Non  Condensed/Clean XHTML (No Condensed by default)"
+      Type="Clean XHTML"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Non  Condensed/DITA (No Condensed by default)"
+      Type="DITA"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Condensed/Eclipse Condensed JS"
+      Type="WebHelp"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Non  Condensed/Eclipse No Condensed JS"
+      Type="WebHelp"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Non  Condensed/HTML Help (No Condensed by default)"
+      Type="HTML Help"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Condensed/HTML5 Tripane Condensed JS"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Non  Condensed/MyWebHelp No Condensed JS"
+      Type="WebHelp"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Condensed/WebHelp Condensed JS"
+      Type="WebHelp" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Condensed/WH Plus Condensed JS"
+      Type="WebHelp Plus" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Print/Word"
+      Type="Word" />
+  </Targets>
+</CatapultBatchTarget>

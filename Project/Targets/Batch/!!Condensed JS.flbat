@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target"
+  Guid="5205f22c-a098-43d8-a699-bce73d484992">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Non  Condensed/!HTML5 Top Navigation No Condensed JS"
+      Type="HTML5"
+      Build="false"
+      LastBuilt="2019-07-03T08:54:09.0550446-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Non  Condensed/!WH Plus No Condensed JS"
+      Type="WebHelp"
+      Build="false"
+      LastBuilt="2019-07-03T08:54:09.2516820-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Condensed/Eclipse Condensed JS"
+      Type="WebHelp"
+      Build="true"
+      LastBuilt="2019-07-03T08:54:14.4766005-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Non  Condensed/HTML Help (No Condensed by default)"
+      Type="HTML Help"
+      Build="false"
+      LastBuilt="2019-07-03T08:54:18.3100106-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Condensed/HTML5 Tripane Condensed JS"
+      Type="HTML5"
+      Build="true"
+      LastBuilt="2019-07-03T08:54:21.3898387-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Non  Condensed/MyWebHelp No Condensed JS"
+      Type="WebHelp"
+      Build="false"
+      LastBuilt="2019-07-03T08:54:23.8583117-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Condensed/WebHelp Condensed JS"
+      Type="WebHelp"
+      Build="true"
+      LastBuilt="2019-07-03T08:54:27.0982226-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online/Condensed/WH Plus Condensed JS"
+      Type="WebHelp Plus"
+      Build="true"
+      LastBuilt="2019-07-03T08:54:30.1401357-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Print/Word"
+      Type="Word"
+      Build="false" />
+  </Targets>
+</CatapultBatchTarget>
